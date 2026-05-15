@@ -166,8 +166,10 @@ This project helped in learning:
 
 ## Author
 
-Chandana
+Chandana U
+
 Computer Science Engineering Student
+
 Android App Development Internship Project
 
 ## Project Goal
