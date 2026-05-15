@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">Virasat-Namma Guide</string>
+    <string name="scan_qr">Scan QR</string>
+    <string name="travel_passport">Travel Passport</string>
+    <string name="site_button_text">%1$s\n%2$s</string>
+
+    <string name="history_label">History:</string>
+    <string name="architecture_label">Architecture:</string>
+    <string name="legend_label">Legend:</string>
+    <string name="hidden_fact_label">Hidden Fact:</string>
+
+    <string name="history_text">%1$s&#10;%2$s</string>
+    <string name="architecture_text">%1$s&#10;%2$s</string>
+    <string name="legend_text">%1$s&#10;%2$s</string>
+    <string name="hidden_fact_text">%1$s&#10;%2$s</string>
+
+    <string name="play_audio_guide">Play Audio Guide</string>
+    <string name="pause_audio_guide">Pause Audio Guide</string>
+    <string name="audio_coming_soon">Audio guide will be added later</string>
+
+    <string name="check_in">Check-in</string>
+    <string name="checked_in">Checked in!</string>
+
+    <string name="unknown_qr_code">Unknown QR Code</string>
+    <string name="scanner_failed">Scanner failed</string>
+
+    <string name="passport_title">Travel Passport</string>
+    <string name="no_sites_visited">No sites visited yet.</string>
+    <string name="visited_site">✓ %1$s</string>
+
+    <string name="hidden_fact_locked">Tap this box to reveal the QR code. Scan it to unlock the hidden fact.</string>
+
+    <string name="scan_with_camera">Scan with Camera</string>
+    <string name="pick_from_gallery">Pick QR Screenshot from Gallery</string>
+    <string name="choose_qr_image">Choose QR Image</string>
+    <string name="no_qr_found">No QR code found in this image.</string>
+
+    <string name="visited_status">VISITED ✓</string>
+    <string name="passport_subtitle">Your digital heritage travel record</string>
+    <string name="visited_count">%1$d sites visited</string>
+    <string name="passport_badge_title">Heritage Explorer</string>
+    <string name="passport_badge_message">Check in at heritage sites to build your Karnataka travel passport.</string>
+    <string name="passport_empty_title">No stamps yet</string>
+    <string name="passport_empty_message">Visit a heritage site and tap Check-in to earn your first passport stamp.</string>
+    <string name="passport_stamp">HERITAGE STAMP</string>
+
+    <string name="open_route_maps">Open Route in Google Maps</string>
+
+    <string name="weather_title">Current Weather</string>
+    <string name="weather_loading">Loading weather conditions...</string>
+    <string name="weather_unavailable">Weather unavailable. Check internet connection.</string>
+
+    <string name="tell_me_story">Tell Me A Story</string>
+    <string name="ai_story_label">GENAI STORY MODE</string>
+    <string name="listen_story">Listen to Story</string>
+    <string name="stop_story">Stop Story</string>
+    <string name="tts_not_available">Story audio is not available on this device.</string>
+
+    <string name="splash_title">Virasat-Namma Guide</string>
+    <string name="splash_subtitle">Karnataka Heritage Companion</string>
+
+    <string name="language_english">English</string>
+    <string name="language_kannada">Kannada</string>
+    <string name="language_updated">Language updated</string>
+    <string name="offline_mode">Offline Mode</string>
+    <string name="online_mode">Online Mode</string>
+    <string name="offline_banner">Internet is unavailable. Showing saved heritage location data.</string>
+    <string name="offline_map_title">Offline Heritage Location</string>
+    <string name="offline_all_sites">Saved Heritage Coordinates</string>
+    <string name="offline_coordinates">Coordinates: %1$.4f, %2$.4f</string>
+    <string name="offline_route_note">Route needs Google Maps and internet. You can open it when connection returns.</string>
+    <string name="retry_connection">Retry Connection</string>
+    <string name="connection_available">Internet connection is available.</string>
+    <string name="connection_unavailable">Still offline. Saved location data remains available.</string>
+    <string name="view_offline_location">View Offline Location</string>
+    <string name="open_ar_explore">Open AR Heritage View</string>
+    <string name="ar_title">AR Heritage View</string>
+    <string name="ar_permission_needed">Camera permission is needed for AR view.</string>
+    <string name="ar_unavailable">ARCore is not available on this device. Showing camera overlay demo.</string>
+    <string name="ar_install_needed">Google Play Services for AR may be required for full AR.</string>
+    <string name="ar_demo_note">Educational AR prototype: camera view with floating heritage overlay.</string>
+    <string name="ar_open_camera">Opening camera...</string>
+    <string name="ar_supported">ARCore is installed. Showing stable camera AR preview.</string>
+    <string name="ar_update_needed">Google Play Services for AR needs an update. Showing stable camera preview.</string>
+    <string name="ar_install_requested">Google Play Services for AR installation requested. Camera preview remains available.</string>
+    <string name="ar_checking">Checking ARCore support. Camera preview remains available.</string>
+    <string name="ar_check_timeout">ARCore support check timed out. Camera preview remains available.</string>
+    <string name="ar_check_error">ARCore support could not be verified. Camera preview remains available.</string>
+    <string name="ar_device_not_supported">AR is not supported on this device. Showing heritage preview safely.</string>
+    <string name="ar_camera_permission_fallback">Camera permission was not granted. Showing non-AR heritage preview instead.</string>
+    <string name="ar_camera_failed">Camera could not be started. Showing non-AR heritage preview instead.</string>
+    <string name="ar_no_camera">This device has no usable camera. Showing non-AR heritage preview instead.</string>
+    <string name="ar_no_back_camera">No back camera is available for AR preview. Showing non-AR heritage preview instead.</string>
+    <string name="ar_fallback_title">Heritage Preview</string>
+    <string name="ar_try_camera_again">Try Camera Again</string>
+    <string name="ar_install_arcore">Open ARCore in Play Store</string>
+    <string name="ar_site_missing">Heritage site data was not found.</string>
+    <string name="ar_tap_to_place">Point at a surface and tap to place heritage marker</string>
+    <string name="ar_anchor_placed">Heritage marker placed</string>
+    <string name="ar_marker_label">HERITAGE MARKER</string>
+    <string name="ar_ready_short">AR Heritage View Ready</string>
+    <string name="ar_marker_placed_hint">Marker placed. Tap another point to move it.</string>
+    <string name="close">Close</string>
+
+
+
+</resources>

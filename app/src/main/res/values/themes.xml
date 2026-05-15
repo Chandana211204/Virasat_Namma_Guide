@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Virasat" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/temple_maroon</item>
+        <item name="colorPrimaryVariant">@color/temple_brown</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="android:statusBarColor">@color/temple_maroon</item>
+        <item name="android:navigationBarColor">@color/temple_brown</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
